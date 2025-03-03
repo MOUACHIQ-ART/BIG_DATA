@@ -2,7 +2,7 @@
 # Big Data Analytics - Analyse de Données Textuelles et Logs Web
 
 ## Description
-Ce projet regroupe deux rapports de laboratoire réalisés dans le cadre du cours **Big Data et Intelligence Artificielle** en deuxième année, option **Big Data et IA**. L'objectif est d'analyser des données textuelles et des logs web en utilisant **Spark RDDs** et **Spark DataFrames** afin de comparer leurs performances et optimiser les opérations de traitement des données.
+Ce projet regroupe deux rapports de laboratoire réalisés dans le cadre du cours **Big Data et Intelligence Artificielle**. L'objectif est d'analyser des données textuelles et des logs web en utilisant **Spark RDDs** et **Spark DataFrames** afin de comparer leurs performances et optimiser les opérations de traitement des données.
 
 ## Introduction
 Ce projet se divise en deux grandes parties :
